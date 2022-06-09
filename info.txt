@@ -1,0 +1,37 @@
+		P1
+up :    z
+down :  s
+left :  q
+right : d
+Power Glove : a
+boxing Glove : e
+place bomb : a
+
+		P2
+up :    o
+down :  l
+left :  k
+right : m
+Power Glove : i
+boxing Glove : p
+place bomb : i
+
+		P3
+up :    g
+down :  b
+left :  v
+right : n
+Power Glove : h
+boxing Glove : space_bar
+place bomb : h
+
+		P4
+up :    arrow_up
+down :  arrow_down
+left :  arrow_left
+right : arrow_right
+Power Glove : page_down
+boxing Glove : page_up
+place bomb : page_down
+
+
